@@ -1,4 +1,4 @@
-##ECommerce Using Laravel + MySQL, recommendation engine support using Neo4j
+## ECommerce Using Laravel + MySQL, recommendation engine support using Neo4j
 
 This Simple App demonstrates recommendations for purchases to increase purchase probability. 
 
