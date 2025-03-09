@@ -1,0 +1,1 @@
+<h1>Order Has Been Placed {{$invoice->id}}</h1>
